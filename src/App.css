@@ -1,0 +1,22 @@
+.register-container{  
+  width: 500px; 
+}
+
+.btnStylee {
+  background-color: rgb(173, 4, 77);
+  border: rgb(227, 238, 227);
+  /* text-align: center;
+  position: relative; */
+  margin-top: 10px; 
+  /* margin-left: 190px; */
+}
+.btnStyle:hover {
+  background-color: rgb(198, 113, 137);
+}
+
+.passButton{
+  background-color: green;
+  color: white;
+}
+
+
